@@ -10,7 +10,7 @@ The dataset is about the relationships between chemical structure and biodegrada
 
 ## Objectives
 
-To predict if a chemicals is biodegradable or not. It is a classification project.
+The aim is to predict if a chemicals is biodegradable or not. It is a classification project.
 
 ## Process
 
@@ -18,4 +18,8 @@ The steps of this project are  :
  * Data preprocessing
  * Feature selection for model(s)
  * Use useless features for clustering 
- * Use useful features AND cluster for modeling.
+ * Use useful features & cluster for modeling.
+
+## Presentation
+
+https://github.com/AuroreSupiot/Biodegradation/blob/main/Project_Biodegradation_presentation.pdf
